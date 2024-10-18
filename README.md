@@ -1,68 +1,31 @@
-# 💻 Mukhammad Usmonov | Backend Developer
+### Hi there 👋, My name is Mukhammad
+#### Python Backend Developer
+---
+![Python Backend Developer]()
 
-Welcome to my GitHub! I'm **Mukhammad Usmonov**, a passionate Python backend developer with a focus on building scalable and efficient systems. I love to explore new technologies, contribute to open-source projects, and continuously improve my skills. Currently, I’m focused on mastering **FastAPI**, **Docker**, and **Data Engineering**, with a long-term goal of learning the world of **Quantum Computing**.
-
+I love to explore new technologies, contribute to open-source projects, and continuously improve my skills. Currently, I’m focused on mastering FastAPI, Docker, and Data Engineering, with a long-term goal of learning the world of Quantum Computing.
 ---
 
-## 🚀 Technologies & Tools I Work With:
+- 🔭 I’m currently working on my own porfolio site 
+- 🌱 I’m currently learning Data Science 
+- 👯 I’m looking to collaborate on Real Projects 
+- 🤔 I’m looking for help with FastAPI 
+- 💬 Ask me about Python, Django, DRF 
+- 📫 How to reach me: oo1amirmuhammad@gmail.com 
+- ⚡ Fun fact: I can read a book and search on Google
 
-- **Languages**: Python, Bash/Shell scripting
-- **Frameworks**: Django, Django REST Framework, FastAPI
-- **Databases**: PostgreSQL, SQLite
-- **Tools & Platforms**: Docker, Git, Odoo, JWT for Authentication
-- **Version Control**: Git, GitHub
-- **Other**: Linux, CI/CD (GitHub Actions), API Development
+Skills:
 
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgresql,figma,html,css)](https://skillicons.dev)
+
+Social Networks:
+
+[<img src='https://skillicons.dev/icons?i=github' alt='github' height='40'>](https://github.com/ameer611)  [<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/muhammad-usmonov-oo1/)  [<img src='https://skillicons.dev/icons?i=instagram' alt='instagram' height='40'>](https://www.instagram.com/ameer.1424/)  [<img src='https://go-skill-icons.vercel.app/api/icons?i=telegram&theme=light' alt='telegram' height='40'>](https://t.me/ameer_1606)  
 ---
 
-## 🔥 My Projects:
+[![trophy](https://github-profile-trophy.vercel.app/?username=ameer611)](https://github.com/ryo-ma/github-profile-trophy)
 
-Here are some of the notable projects I’ve been working on. For a detailed look at my work, please check out the pinned repositories below or browse through my GitHub.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameer611)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📝 [Financial Tracker](https://github.com/ameer611/financial-tracker)
-A web application built with Django to track personal and business finances. Features include income/expense tracking, reporting, and a budget planner.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ameer611&show_icons=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=ameer611)  
 
-- **Technologies**: Django, PostgreSQL, JWT Authentication, Docker
-- **Highlights**: Built RESTful APIs, implemented secure JWT authentication, and containerized the app using Docker.
-
-### 🤖 Telegram Bot
-A Python-based bot that automates various tasks and communicates with users via Telegram API.
-
-- **Technologies**: Python, Aiogram API
-- **Highlights**: Automated task scheduling and integration with external APIs.
-
----
-
-## 🌱 Currently Learning:
-
-I am constantly growing my skill set to stay updated with the latest trends in backend development and data engineering. Here’s what I’m diving into right now:
-
-- **FastAPI**: Developing lightweight, high-performance APIs.
-- **Docker**: Mastering containerization and deployment.
-- **Quantum Computing**: Preparing for the future of computing by exploring its potential applications.
-- **Data Engineering**: Learning the best practices and tools for handling large-scale data.
-
----
-
-## 🏆 Achievements:
-
-- Successfully completed a **Python development course project** by creating a fully functional portfolio website for a company.
-- **First graduate** from an online Python back-end development course that I launched with my team.
-
----
-
-## 🧠 What I'm Passionate About:
-
-- Building scalable, maintainable, and efficient software.
-- Contributing to open-source projects and collaborating with a like-minded developer community.
-- Learning and adapting to new trends, like **data engineering** and **machine learning**.
-
----
-
-## 🤝 Let's Connect:
-
-- **GitHub**: [github.com/ameer611](https://github.com/ameer611)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-usmonov-oo1/)
-- **Email**: oo1amirmuhammad@gmail.com
-
-Feel free to explore my repositories, open an issue, or contribute to any project!
