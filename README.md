@@ -1,10 +1,4 @@
-### Hi there 👋, My name is Mukhammad
-#### Python Backend Developer
----
-![Python Backend Developer]()
-
-I love to explore new technologies, contribute to open-source projects, and continuously improve my skills. Currently, I’m focused on mastering FastAPI, Docker, and Data Engineering, with a long-term goal of learning the world of Quantum Computing.
----
+![Python Backend Developer](https://github.com/ameer611/ameer611/blob/main/Make%20your%20README.png)
 
 - 🔭 I’m currently working on my own porfolio site 
 - 🌱 I’m currently learning Data Science 
