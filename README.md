@@ -8,11 +8,11 @@
 - 📫 How to reach me: oo1amirmuhammad@gmail.com 
 - ⚡ Fun fact: I can read a book and search on Google
 
-Skills:
+### Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgresql,figma,html,css)](https://skillicons.dev)
 
-Social Networks:
+### Social Networks:
 
 [<img src='https://skillicons.dev/icons?i=github' alt='github' height='40'>](https://github.com/ameer611)  [<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/muhammad-usmonov-oo1/)  [<img src='https://skillicons.dev/icons?i=instagram' alt='instagram' height='40'>](https://www.instagram.com/ameer.1424/)  [<img src='https://go-skill-icons.vercel.app/api/icons?i=telegram&theme=light' alt='telegram' height='40'>](https://t.me/ameer_1606)  
 ---
