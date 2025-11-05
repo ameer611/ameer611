@@ -1,10 +1,9 @@
 ![Python Backend Developer](https://github.com/ameer611/ameer611/blob/main/Make%20your%20README.png)
 
-- 🔭 I’m currently working on my own porfolio site 
+- 🔭 I’m currently working at Ministery of Economy and Finance of Republic of Uzbekistan
 - 🌱 I’m currently learning Data Science 
-- 👯 I’m looking to collaborate on Real Projects 
-- 🤔 I’m looking for help with FastAPI 
-- 💬 Ask me about Python, Django, DRF 
+- 🤔 I use FastAPI microframework
+- 💬 Ask me about Python, FastAPI 
 - 📫 How to reach me: oo1amirmuhammad@gmail.com 
 - ⚡ Fun fact: I can read a book and search on Google
 
