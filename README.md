@@ -7,9 +7,17 @@
 - 📫 How to reach me: oo1amirmuhammad@gmail.com 
 - ⚡ Fun fact: I can read a book and search on Google
 
-### Skills:
-
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgresql,figma,html,css)](https://skillicons.dev)
+### Skills
+#### Programming languages:
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,typescript)](https://skillicons.dev)
+#### Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=fastapi,django)](https://skillicons.dev)
+#### Databases:
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongo,redis)](https://skillicons.dev)
+#### Version Control:
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+#### Tools:
+[![My Skills](https://skillicons.dev/icons?i=pycharm,postman,obsidian,figma)](https://skillicons.dev)
 
 ### Social Networks:
 
